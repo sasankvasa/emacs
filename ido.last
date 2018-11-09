@@ -1,0 +1,389 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/sasank/git/assurance/vault/manager/" . "conf/")
+ ("/Users/sasank/git/eng/controller/" . "WebContent/")
+ ("/Users/sasank/git/eng/collector/service/" . "test/")
+ ("/Users/sasank/git/dev/docker/collector/conf/" . "supervisor-conf/")
+ ("/Users/sasank/git/eng/collector/" . "scripts/")
+ ("/Users/sasank/git/eng/docker/collector/conf/" . "supervisor-conf/")
+ ("/Users/sasank/git/eng/docker/" . "collector/")
+ ("/Users/sasank/git/eng/.venv/" . "bin/")
+ ("/Users/sasank/git/eng/infrastructure/buildScripts/bundle/" . "microservices/")
+ ("/Users/sasank/git/eng/infrastructure/buildScripts/dev/" . "archive/")
+ ("/Users/sasank/git/eng/infrastructure/" . "buildScripts/")
+ ("/Users/sasank/git/eng/docker/dataconnector/" . "conf/")
+ ("/Users/sasank/git/dev/docker/configdb/" . "conf/")
+ ("/Users/sasank/git/eng/controller/src/main/java/io/spanugo/alpha/" . "entity/")
+ ("/Users/sasank/git/dev/docker/message/" . "conf/")
+ ("/Users/sasank/git/dev/docker/dataconnector/" . "scripts/")
+ ("/Users/sasank/git/eng/devops/tests/" . "collector/")
+ ("/Users/sasank/git/src/docker/collector/" . "scripts/")
+ ("/Users/sasank/git/src/infrastructure/buildScripts/" . "config/")
+ ("/Users/sasank/git/eng/docker/collector/" . "scripts/")
+ ("/Users/sasank/git/eng/controls/" . "service/")
+ ("/Users/sasank/git/eng/infrastructure/buildScripts/" . "dev/")
+ ("/Users/sasank/git/eng/portal/src/" . "environments/")
+ ("/Users/sasank/git/eng/portal/" . "src/")
+ ("/Users/sasank/git/eng/vault/" . "manager/")
+ ("/Users/sasank/git/eng/" . "collector/")
+ ("/Users/sasank/git/dev/build/install/collector/" . "bin/")
+ ("/Users/sasank/.emacs.d/elpa/" . "elpy-20180113.339/")
+ ("/Users/sasank/.emacs.d/" . "elpa/")
+ ("/Users/sasank/git/dev/vault/client/src/test/" . "java/")
+ ("/Users/sasank/git/dev/infrastructure/buildScripts/" . "dev/")
+ ("/Users/sasank/git/dev/infrastructure/" . "buildScripts/")
+ ("/Users/sasank/data/localdeploy/" . "initdb/")
+ ("/Users/sasank/data/" . "localdeploy/")
+ ("/Users/sasank/git/dev/build/install/" . "collector/")
+ ("/Users/sasank/git/dev/controller/src/main/java/io/spanugo/" . "vault/")
+ ("/Users/sasank/git/dev/controller/src/main/java/io/" . "spanugo/")
+ ("/Users/sasank/git/dev/controller/src/main/java/" . "io/")
+ ("/Users/sasank/git/dev/controller/src/main/" . "java/")
+ ("/Users/sasank/git/dev/controller/src/" . "main/")
+ ("/Users/sasank/git/dev/controller/" . "src/")
+ ("/Users/sasank/git/dev/vault/client/src/main/" . "resources/")
+ ("/Users/sasank/git/dev/vault/client/src/" . "test/")
+ ("/Users/sasank/git/dev/vault/client/" . "src/")
+ ("/Users/sasank/git/dev/vault/manager/" . "conf/")
+ ("/Users/sasank/git/dev/docker/vault/" . "bin/")
+ ("/Users/sasank/git/dev/vault/" . "client/")
+ ("/Users/sasank/git/dev/test/" . "vault/")
+ ("/Users/sasank/git/dev/common/infrastructure/buildScripts/" . "dev/")
+ ("/Users/sasank/git/dev/common/infrastructure/" . "buildScripts/")
+ ("/Users/sasank/git/dev/common/" . "infrastructure/")
+ ("/Users/sasank/git/analytics/controller/" . "vault/")
+ ("/Users/sasank/src/pykafka/tests/" . "pykafka/")
+ ("/Users/sasank/src/pykafka/" . "pykafka/")
+ ("/Users/sasank/git/analytics/controls/" . "lib/")
+ ("/Users/sasank/git/dev/collector/src/main/java/io/spanugo/contcomp/gateway/mvp/" . "manager/")
+ ("/Users/sasank/git/analytics/docker/collector/" . "scripts/")
+ ("/Users/sasank/git/analytics/" . "schema/")
+ ("/Users/sasank/git/dev/controls/" . "lib/")
+ ("/Users/sasank/git/assurance/controls/" . "lib/")
+ ("/Users/sasank/git/dev/docker/api/" . "scripts/")
+ ("/Users/sasank/git/dev/build/" . "install/")
+ ("/Users/sasank/git/dev/collector/src/main/java/io/spanugo/contcomp/gateway/" . "mvp/")
+ ("/Users/sasank/git/dev/collector/src/main/java/io/spanugo/contcomp/" . "gateway/")
+ ("/Users/sasank/git/dev/collector/src/main/java/io/spanugo/" . "contcomp/")
+ ("/Users/sasank/git/dev/collector/src/main/java/io/" . "spanugo/")
+ ("/Users/sasank/git/dev/collector/src/main/java/" . "io/")
+ ("/Users/sasank/git/dev/collector/src/main/" . "java/")
+ ("/Users/sasank/git/dev/collector/src/" . "main/")
+ ("/Users/sasank/git/dev/collector/" . "src/")
+ ("/Users/sasank/git/analytics/test/" . "analytics/")
+ ("/Users/sasank/git/analytics/docker/" . "collector/")
+ ("/Users/sasank/git/dev/controller/src/main/java/io/spanugo/alpha/" . "entity/")
+ ("/Users/sasank/git/dev/docker/collector/" . "conf/")
+ ("/Users/sasank/git/dev/docker/" . "collector/")
+ ("/Users/sasank/git/dev/" . "docker/")
+ ("/Users/sasank/git/dev/newcontrols/" . "lib/")
+ ("/Users/sasank/git/assurance/test/" . "controls/")
+ ("/Users/sasank/git/assurance/controller/vault/" . "local_ca/")
+ ("/Users/sasank/git/assurance/controller/" . "vault/")
+ ("/Users/sasank/git/assurance/docker/collector/" . "bin/")
+ ("/Users/sasank/git/assurance/docker/vault/" . "bin/")
+ ("/Users/sasank/git/assurance/docker/" . "collector/")
+ ("/Users/sasank/git/assurance/" . "test/")
+ ("/Users/sasank/git/docker/vault/" . "conf/")
+ ("/Users/sasank/git/alpha/" . "vault/")
+ ("/Users/sasank/git/alpha/target/" . "collector/")
+ ("/Users/sasank/git/docker/messagenode/" . "bin/")
+ ("/Users/sasank/git/docker/collector/" . "bin/")
+ ("/Users/sasank/git/docker/mysql/" . "scripts/")
+ ("/Users/sasank/git/docker/ui/" . "bin/")
+ ("/Users/sasank/git/docker/api/" . "bin/")
+ ("/Users/sasank/git/spanugogateway/src/main/java/io/spanugo/contcomp/gateway/" . "mvp/")
+ ("/Users/sasank/git/docker/securitynode/" . "bin/")
+ ("/Users/sasank/git/docker/" . "collector/")
+ ("/Users/sasank/git/common/src/main/java/io/spanugo/" . "common/")
+ ("/Users/sasank/git/common/src/main/java/io/" . "spanugo/")
+ ("/Users/sasank/git/common/src/main/java/" . "io/")
+ ("/Users/sasank/git/control/" . "lib/")
+ ("/Users/sasank/src/diveo/us-highschools/" . "scripts/")
+ ("/Users/sasank/src/diveo/" . "us-highschools/")
+ ("/Users/sasank/src/" . "diveo/")
+ ("/Users/sasank/" . ".emacs.d/")
+ ("/Users/sasank/git/common/src/main/" . "java/")
+ ("/Users/sasank/git/common/src/" . "main/")
+ ("/Users/sasank/git/common/" . "src/")
+ ("/Users/sasank/git/" . "dev/")
+ ("/Users/sasank/git/spanugogateway/src/main/" . "resources/")
+ ("/Users/sasank/git/spanugogateway/src/" . "main/")
+ ("/Users/sasank/git/spanugogateway/" . "docker/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/sasank/git/assurance/vault/manager/"
+ "/Users/sasank/git/eng/collector/scripts/"
+ "/Users/sasank/git/eng/collector/service/"
+ "/Users/sasank/git/eng/collector/conf/"
+ "/Users/sasank/git/eng/docker/collector/scripts/"
+ "/Users/sasank/git/eng/collector/"
+ "/Users/sasank/git/eng/infrastructure/buildScripts/dev/"
+ "/Users/sasank/git/eng/infrastructure/buildScripts/bundle/microservices/"
+ "/Users/sasank/git/eng/docker/collector/"
+ "/Users/sasank/git/eng/docker/collector/conf/supervisor-conf/"
+ "/Users/sasank/git/eng/infrastructure/buildScripts/bundle/"
+ "/Users/sasank/git/eng/collector/service/test/"
+ "/Users/sasank/git/dev/infrastructure/buildScripts/config/"
+ "/Users/sasank/git/dev/docker/collector/conf/supervisor-conf/"
+ "/Users/sasank/git/eng/controls/"
+ "/Users/sasank/git/eng/schema/"
+ "/Users/sasank/git/eng/infrastructure/buildScripts/config/"
+ "/Users/sasank/git/eng/automation/sanity/sanity/"
+ "/Users/sasank/git/eng/controls/lib/"
+ "/Users/sasank/git/eng/controls/service/"
+ "/Users/sasank/git/eng/controls/config/"
+ "/Users/sasank/git/eng/.venv/bin/"
+ "/Users/sasank/git/eng/infrastructure/buildScripts/dev/archive/"
+ "/Users/sasank/git/eng/common/message-client/src/main/java/io/spanugo/messaging/"
+ "/Users/sasank/git/eng/docker/dataconnector/conf/"
+ "/Users/sasank/git/eng/docker/dataconnector/"
+ "/Users/sasank/git/eng/devops/db/migrator/compliance/versions/"
+ "/Users/sasank/git/dev/infrastructure/buildScripts/dev/"
+ "/Users/sasank/git/dev/docker/collector/scripts/"
+ "/Users/sasank/git/dev/docker/collector/"
+ "/Users/sasank/git/dev/docker/collector/bin/"
+ "/Users/sasank/git/dev/infrastructure/db/"
+ "/Users/sasank/git/dev/docker/configdb/conf/"
+ "/Users/sasank/git/dev/schema/"
+ "/Users/sasank/git/eng/docker/collector/bin/"
+ "/Users/sasank/git/eng/controller/src/main/java/io/spanugo/alpha/entity/"
+ "/Users/sasank/git/eng/controller/src/main/java/io/spanugo/alpha/dao/"
+ "/Users/sasank/git/eng/controller/src/main/java/io/spanugo/alpha/service/"
+ "/Users/sasank/git/eng/devops/tests/collector/"
+ "/Users/sasank/git/eng/portal/src/app/authorized/collectors/collectors-list/"
+ "/Users/sasank/git/dev/docker/analytics/"
+ "/Users/sasank/git/dev/docker/dataconnector/scripts/"
+ "/Users/sasank/git/dev/docker/message/conf/"
+ "/Users/sasank/git/dev/docker/message/scripts/"
+ "/Users/sasank/git/dev/docker/dataconnector/"
+ "/Users/sasank/git/dev/docker/dataconnector/conf/"
+ "/Users/sasank/git/dev/docker/sql2analytics/"
+ "/Users/sasank/git/dev/docker/devops/"
+ "/Users/sasank/git/eng/devops/tests/"
+ "/Users/sasank/git/eng/devops/tests/api/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "credentials_server.py"
+ "collector_svc_run.py"
+ "rest_api_lib.py"
+ "collector_svc_install.sh"
+ "base_manager.py"
+ "collector_svc.py"
+ "process_manager.py"
+ "collector-svc.conf"
+ "starter.py"
+ "setup.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/sasank/git/assurance/vault/manager/conf/" (23366 19461 348529 847000) "collector.conf" "root_ca.conf" "client_cert.conf" "inter_ca.conf" "../" "./")
+
+ ("/Users/sasank/git/assurance/vault/manager/" (23369 6820 808717 343000) "policy_api_writeonly" "policy_manager" "conf/" "db_conn.py" "setup_vault.py" "cert_server.py" "local_ca/" "credentials_server.py" "vault_manager.py" "policy_api_readonly" "../" "./")
+
+ ("/Users/sasank/git/eng/collector/scripts/" (23495 35191 921352 982000) "collector_svc_run.py" "collector_svc_install.sh" "../" "./")
+
+ ("/Users/sasank/git/eng/collector/" (23495 35191 901465 85000) "src/" ".idea/" "conf/" "service/" "assembly.xml" "collector_task_workers.egg-info/" "scripts/" ".project" ".settings/" "collector_service.egg-info/" ".gitignore" "setup.py" "data.properties" ".classpath" "pom.xml" "dist/" "collector.iml" "../" "./")
+
+ ("/Users/sasank/git/eng/collector/service/" (23495 36447 950336 989000) "discovery_temp.json" "runtime_store_lib.pyc" "fact_register.json" "credentials_cache_lib.pyc" "task_manager.pyc" "results_manager.pyc" "tmp_discovery.json" "base_manager.pyc" "log/" "credentials.json" "settings.py" "process_manager.py" "task_manager.py" "discovery_manager.pyc" "credentials_manager.py" "runtime_store_lib.py" "results_cache_lib.py" "validations_manager.py" "base_manager.py" "results_manager.py" "__init__.py" "task_lib.py" "output/" "rest_api_lib.pyc" "collector_svc.py" "credentials_cache_lib.py" "task_lib.pyc" "results_cache_lib.pyc" "test/" "discovery_manager.py" "settings.pyc" "validations_manager.pyc" "log_config.json" "discovery_detail.json" "credentials_manager.pyc" "facts_manager.pyc" "rest_api_lib.py" "facts_manager.py" "../" "./")
+
+ ("/Users/sasank/git/eng/docker/collector/" (23494 29844 165457 316000) "conf/" "scripts/" "cert/" "README.md" "Dockerfile" "bin/" "../" "./")
+
+ ("/Users/sasank/git/eng/docker/collector/scripts/" (23494 38263 494416 302000) "build_collector.sh" "starter.py" "aws_configure.sh" "../" "./")
+
+ ("/Users/sasank/git/eng/controller/WebContent/" (23318 62953 390730 556000) "WEB-INF/" "META-INF/" "../" "./")
+
+ ("/Users/sasank/git/eng/controller/" (23492 13860 649400 926000) "src/" ".idea/" "infrastructure/" ".project" ".settings/" ".gitignore" "logs/" ".classpath" "java/" "pom.xml" "tests/" "target/" "jaas.config" "WebContent/" "alpha.iml" "../" "./")
+
+ ("/Users/sasank/git/eng/" (23494 29912 863430 238000) "analytics/" "vault/" "versions.ini" "infrastructure/" ".git" "build/" "automation/" ".venv/" ".gitignore" "common/" "schema/" "controls/" "README.md" "controller/" "__init__.py" "collector/" "auth/" "test/" "portal/" "docker/" "devops/" "releases/" "newcontrols/" "../" "./")
+
+ ("/Users/sasank/git/eng/collector/conf/" (23487 55719 741946 991000) "java-collector.conf" "collector-svc.conf" "../" "./")
+
+ ("/Users/sasank/git/eng/devops/tests/api/" (23485 10639 930726 602000) "test_multitenant_data.py" "test_alert_settings.py" "test_mailgun.py" "test_schema.py" "test_credentials.py" "../" "./")
+
+ ("/Users/sasank/git/eng/devops/tests/" (23485 10639 932573 741000) "api/" "collector/" "util/" "conftest.py" "../" "./")
+
+ ("/Users/sasank/git/eng/controller/src/main/java/io/spanugo/alpha/service/" (23485 10639 913901 838000) "AdminServiceImpl.java" "PoliciesServiceImpl.java" "PoliciesService.java" "OnPremHandler.java" "Testcontains.java" "AnalyticsServiceImpl.java" "RepSetService.java" "AuthenticationServiceImpl.java" "TemplateDescriptionServiceImpl.java" "ControlServiceImpl.java" "OrganizationServiceImpl.java" "TemplateRuleServiceImpl.java" "CertificateDetails.java" "AuthenticationService.java" "UserServiceImpl.java" "aspect/" "AzureResourceHandler.java" "RepSetServiceImpl.java" "GatewayService.java" "SchemaDisService.java" "SchemaDisServiceImpl.java" "TemplateRuleService.java" "NotificationService.java" "Test.java" "GatewayServiceImpl.java" "OrganizationService.java" "DashboardService.java" "NotificationServiceImpl.java" "CredentialServiceImpl.java" "AnalyticsService.java" "SSHCredentialService.java" "AggregationService.java" "ControlService.java" "GatewayStatisticsServiceImpl.java" "TemplateServiceImpl.java" "TemplateService.java" "GenerateUniiqueKey.java" "ComplianceService.java" "ResourceServiceImpl.java" "GatewayStatisticsService.java" "CredentialService.java" "UserService.java" "ResourceService.java" "AWSResourceHandler.java" "SSHCredentialServiceImpl.java" "AggregationReportService.java" "AggregationServiceImpl.java" "AdminService.java" "AggregationReportServiceImpl.java" "DashboardServiceImpl.java" "TemplateDescriptionService.java" "ComplianceServiceImpl.java" "../" "./")
+
+ ("/Users/sasank/git/eng/controller/src/main/java/io/spanugo/alpha/dao/" (23470 39445 831383 676000) "LBVM.java" "LDAPUserDao.java" "AuditRepository.java" "RepSetRepository.java" "ReportRepository.java" "TemplateRevisionRepository.java" "VPCPeeringRepository.java" "RuleRepository.java" "VSUBNETRepository.java" "UserRepository.java" "ObjectRepository.java" "SchemaCredentialsRepository.java" "GatewayStatisticsRepository.java" "CredentialRepository.java" "ExpressRouteCktRepository.java" "PlatformRepository.java" "SchemaRepository.java" "GatewayTastRepository.java" "SSHCredentialDAO.java" "LDAPGroupDao.java" "FWRuleRepository.java" "ControlTagRepository.java" "RouteTableRepository.java" "ASEventRepository.java" "TemplateRepository.java" "LocationRepository.java" "ControlRepository.java" "CloudCredentialsRepository.java" "ComplianceRepository.java" "OrganizationRepository.java" "AnalyticsKeysRepository.java" "ResourceRepository.java" "LBRepository.java" "VMRepository.java" "StandardControlRepository.java" "SchemaDisRepository.java" "NSGRepository.java" "PolicyRepository.java" "CloudTypeRepository.java" "ResourceGroupRepository.java" "TenantAwareRepository.java" "PublicIPRepository.java" "AggregationRepository.java" "ASRepository.java" "NICRepository.java" "CredentialMappingRepository.java" "AuditCredentialRepository.java" "GatewayRepository.java" "TAGRepository.java" "VNETRepository.java" "../" "./")
+
+ ("/Users/sasank/git/eng/controller/src/main/java/io/spanugo/alpha/entity/" (23485 10639 907947 23000) "TemplateRevisionsArchived.java" "CredentialMapping.java" "ExpressRouteCircuits.java" "ResourceGroup.java" "NSG.java" "OrganizationDetail.java" "ComplianceReportArchived.java" "LBListener.java" "TenantAwareEntity.java" "CloudCredentials.java" "OrganizationPolicy.java" "RouteTable.java" "Template.java" "SSHCredential.java" "SchemaDiscover.java" "LBNATRules.java" "Association.java" "Location.java" "AnalyticsKeys.java" "GatewayTask.java" "ControlTag.java" "Credential.java" "AlertSettings.java" "AutoScaleEvents.java" "VNET.java" "CloudType.java" "Platform.java" "AlertAddress.java" "ObjectsParseStatus.java" "EnabledEntity.java" "ComplianceReport.java" "FWRule.java" "VSUBNET.java" "User.java" "ReportSetting.java" "ComplianceSummary.java" "Route.java" "TemplateRevisions.java" "LBNetIPConfig.java" "Gateway.java" "Resource.java" "PublicIPs.java" "LBBackEndPool.java" "LoadBalancer.java" "ComplianceSummaryArchived.java" "Templaterule.java" "StandardControl.java" "Organization.java" "Schema.java" "TAG.java" "AvailabilitySet.java" "AggregationReport.java" "CredentialType.java" "GatewayStatistics.java" "Control.java" "TemplateArchived.java" "Objects.java" "NIC.java" "VMProfile.java" "VirtualMachine.java" "ALBTargetGroup.java" "AutoScaleGroup.java" "CollectorAppProp.java" "SchemaCredentials.java" "VPCPeering.java" "../" "./")
+
+ ("/Users/sasank/git/eng/docker/collector/bin/" (23461 30958 60228 616000) "start_collector.sh" "../" "./")
+
+ ("/Users/sasank/git/eng/devops/db/migrator/compliance/versions/" (23485 10639 927677 869000) "279e7b12fd79_remove_pci_cis_db_from_standard_control_.pyc" "85a9fc77be21_add_alert_settings_table.pyc" "5c295024c968_adding_uuid_column_in_organization.pyc" "0108545ec4cc_mvp_1718_update_accesstokenlifespan_and_.py" "9c01ab90e36f_add_data_export_columns_to_discovery_.py" "fa662143819b_mvp_1534_remove_control_110009.py" "fa662143819b_mvp_1534_remove_control_110009.pyc" "279e7b12fd79_remove_pci_cis_db_from_standard_control_.py" "aa765e54d598_mvp_1143_analytics_schema_update.py" "9c01ab90e36f_add_data_export_columns_to_discovery_.pyc" "157169cc3156_base.pyc" "97e0f3b62b7a_change_credential_and_credential_mapping.py" "dd4a79268697_aggregation_result_report_table_creation.pyc" "84b0f1060a9f_add_alert_address_table.py" "0bafc2cd7572_mvp_1431_create_api_to_edit_organization.pyc" "d898c3d5ede2_report_setting_added_lastruntime_and_.py" "d898c3d5ede2_report_setting_added_lastruntime_and_.pyc" "ed9b7a149bfc_new_credential_tables.py" "6b8df03b4acd_mvp_1816_removing_gcl_that_constitute_.py" "175a4341c64d_data_model_changes_for_template.pyc" "dd4a79268697_aggregation_result_report_table_creation.py" "4ad47eeef35d_mvp_822_update_client_roles_change_.pyc" "973daf17cb84_mvp_1434_issue_in_db.pyc" "38a989894beb_mvp_1968_add_index_task_id_type_id.py" "973daf17cb84_mvp_1434_issue_in_db.py" "85a9fc77be21_add_alert_settings_table.py" "__init__.py" "0087a3892fd3_mvp_1862_compliance_summary_count_fix.py" "edc493b499b1_mvp_1789_onprem_type_addition.py" "fee259a8f093_mvp_1627_upgrade_scripts_for_inherit_.py" "5c295024c968_adding_uuid_column_in_organization.py" "7a5cd708584a_mvp_1143_analytics_data_migration.pyc" "0108545ec4cc_mvp_1718_update_accesstokenlifespan_and_.pyc" "aa765e54d598_mvp_1143_analytics_schema_update.pyc" "fee259a8f093_mvp_1627_upgrade_scripts_for_inherit_.pyc" "c203d760ffad_mvp_1764_upgrade_scripts_for_existing_.py" "157169cc3156_base.py" "1dbbac63a98a_mvp_1902_custom_templates_should_not_be_.py" "fa157ad7545f_mvp_1385_exception_override.pyc" "0bafc2cd7572_mvp_1431_create_api_to_edit_organization.py" "7caff55d15ce_mvp_1947_inherit_auth_manage_realm_role_.py" "175a4341c64d_data_model_changes_for_template.py" "7a5cd708584a_mvp_1143_analytics_data_migration.py" "4ad47eeef35d_mvp_822_update_client_roles_change_.py" "84b0f1060a9f_add_alert_address_table.pyc" "../" "./")
+
+ ("/Users/sasank/git/eng/infrastructure/buildScripts/dev/archive/" (23461 30958 29650 637000) "collector-build.sh" "UI-build.sh" "postbuild-all.sh" "fix_hosts.py" "UI-postbuild.sh" "controls-postbuild.sh" "push_collector.sh" "build-all.sh" "test.py" "push_vault.sh" "controller-build.sh" "controller-postbuild.sh" "update_realms.py" "collector-postbuild.sh" "session_login.py" "build.py" "../" "./")
+
+ ("/Users/sasank/git/eng/.venv/bin/" (23487 52819 428252 627000) "activate.csh" "docker-compose" "activate" "pip2.7" "python2.7" "wsdump.py" "jsonschema" "easy_install-2.7" "pip" "activate_this.py" "python-config" "chardetect" "wheel" "activate.fish" "python2" "python" "easy_install" "pip2" "../" "./")
+
+ ("/Users/sasank/git/eng/controls/lib/" (23485 10639 922219 149000) "result_format.py" "ssh_vms_commands.py" "compound_test.py" "runtime_cache.py" "get_config.py" "operation_datatype.py" "common_lib.py.bk" "common_lib.py" "string_lib.py" "network.py" "storage.py" "BaseControl.py" "ssh_lib.py" "__pycache__/" "loadbalancer/" "aws_logging.py" "__init__.py" "monitoring.py" "control_exec.py" "cache_manager.py" "credentials.py" "onprem-0.0.1.tar.gz" "iam.py" "keymanagement.py" "config.py" "transform_fact.py" "cloudtrail.py" "../" "./")
+
+ ("/Users/sasank/git/eng/automation/sanity/sanity/" (23485 10639 892006 274000) "schema.py" "authenticate.py" "automation_lib.py" "templates.py" "__pycache__/" "__init__.py" "collector.py" "constants.py" "organization.py" "credentials.py" "check_existing_setup.py" "../" "./")
+
+ ("/Users/sasank/git/eng/controls/" (23485 10639 926971 962000) "windows_controls.py" "unixhosthardening_controls.py" "templVersion/" "spawscloudfact/" "firewall_controls.py" "conf/" "fact_register.json" "org.json" "compound_controls.py" "iam_control.py" "lib/" "settings.py" "kubernetes_controls.py" "validation.json" "scripts/" "ssh_controls.py" "factsetup.py" "controlstofact.json" "azure_sql_servers_controls.py" "combinationcontrols.py" "logging_controls.py" "iam_controls.py" "spfactcollector/" "networking_controls.py" "__init__.py" "template/" "sp_factcollector.py" "monitoring_controls.py" "azure_controls/" "config/" "azure_logging_controls.py" "spazurecloudfact/" "aws_s3_controls.py" "archive/" "loadbalancer_control.py" "oracle_controls.py" "run_controls.py" "database_controls.py" "azure_security_center_controls.py" "../" "./")
+
+ ("/Users/sasank/git/eng/collector/service/test/" (23470 40657 18350 874000) "cleanup.py" "credentials.py" "discovery.py" "../" "./")
+
+ ("/Users/sasank/git/eng/docker/collector/conf/supervisor-conf/" (23485 10799 409333 249000) "redis.conf" "collector-svc-task.conf" "control-server.conf" "starter.conf" "java-collector.conf" "../" "./")
+
+ ("/Users/sasank/git/eng/infrastructure/buildScripts/bundle/" (23487 52796 89462 134000) "setup.cfg" "setup.py" "README" "dist/" "spanugo_microservices.egg-info/" "microservices/" "../" "./")
+
+ ("/Users/sasank/git/eng/infrastructure/buildScripts/bundle/microservices/" (23487 50425 683421 570000) "base.py" "commands.py" "analytics.py" "elastic.py" "docker_util.py" "configdb.py" "vault.py" "api.py" "devops.py" "message.py" "__init__.py" "collector.py" "util.py" "kibana.py" "portal.py" "auth.py" "dataconnector.py" "../" "./")
+
+ ("/Users/sasank/git/eng/docker/collector/conf/" (23448 682 560231 297000) "rc.local" "supervisord.conf" "redis.conf" "supervisor-conf/" "../" "./")
+
+ ("/Users/sasank/git/eng/infrastructure/buildScripts/dev/" (23474 40726 920910 716000) "docker_push.sh" "upgrade.py" "push_service.sh" "archive/" "requirements.txt" "deploy.py" "setup.sh" "../" "./")
+
+ ("/Users/sasank/git/eng/infrastructure/buildScripts/config/" (23461 30958 61965 740000) "instance_env_spanugodev.json" "service-template-elasticsearch.yml" "instance_details.json" "instance_env_spanugodemo.json" "service-template-analytics.yml" "instance_env_defaults.json" "service-template-dataconnector.yml" "service-template-kibana.yml" "instance_env_localhost.json" "service-template-configdb.yml" "instance_env_spanugosvc.json" "instance_env_spanugostaging.json" "service-template-auth.yml" "service-template-devops-override.yml" "vault.conf" "service-template-message.yml" "service-template-portal.yml" "service-template-collector.yml" "service-template-vault.yml" "service-template-devops.yml" "service-template-api.yml" "../" "./")
+
+ ("/Users/sasank/" (23457 45207 305338 219000) "src/" ".idea/" ".groovy/" "ATT00001.htm" ".adalcache" "git/" ".viminfo" ".bash_history" "supervisord.log" ".gitconfig" ".aws/" ".cache/" "Downloads/" ".rediscli_history" "data/" ".ngrok/" ".bash_profile" ".#test.txt" ".m2/" "java-collector.log" ".babel.json" ".extaccounts" ".pyenv/" "Documents/" ".npm/" ".gitflow_export" ".zoomus/" "IdeaProjects/" ".Trash/" ".emacs~" ".gradle/" "Applications/" "Movies/" "meeting_notes.txt" ".ssh/" "work/" ".kube/" "Public/" ".bash_sessions/" ".cups/" ".gitignore_global" ".android/" ".emacs.d/" "iCloud Drive (Archive)/" ".oracle_jre_usage/" ".lesshst" ".electron/" "Library/" "diff/" "Desktop/" ".ipython/" ".p2/" ".devaccounts" ".mysqlsh/" "runtime/" ".atom/" "Pictures/" "projects/" "foobar1234/" "POCCollector/" ".tooling/" ".wget-hsts" ".hgignore_global" ".stCommitMsg" "eclipse/" ".DS_Store" "go/" ".vim/" ".node-gyp/" ".docker/" "Music/" ".config/" ".eclipse/" "../" "./")
+
+ ("/Users/sasank/git/eng/controls/scripts/" (23455 59968 971562 743000) "setup.py" "upload_controls.py" "MANIFEST.in" "__init__.py" "../" "./")
+
+ ("/Users/sasank/git/eng/portal/src/app/authorized/collectors/collectors-list/" (23455 59968 982938 67000) "collectors-list.component.ts" "collectors-list.component.css" "collectors-list.component.html" "../" "./")
+
+ ("/Users/sasank/git/eng/common/message-client/src/main/java/io/spanugo/messaging/" (23458 22918 433665 463000) "ControlClassification.java" "MySQLMessageClient.java" "MessageClient.java" "../" "./")
+
+ ("/Users/sasank/git/eng/controls/config/" (23457 15610 997153 109000) "confcontrols.py" "__init__.py" "compat.py" "control_server.py" "../" "./")
+
+ ("/Users/sasank/git/eng/schema/" (23458 22918 452105 23000) "control_input_settings.json" "credentials.json" "org_profile.json" "validations.json" "ssh_credentials.json" "discovery.elastic.mapping" "validations.elastic.mapping" "discovery.json" "aws_credentials.json" "azure_credentials.json" "../" "./")
+
+ ("/Users/sasank/git/eng/portal/src/environments/" (23337 14860 346056 250000) "environment.pr.ts" "environment.containers.ts" "environment.stage.ts" "environment.ts" "environment.dev.ts" "environment.develop.ts" "environment.prod.ts" "environment.poc.ts" "environment.build.ts" "../" "./")
+
+ ("/Users/sasank/git/dev/infrastructure/db/" (23450 61644 386414 931000) "v1.0_schema.sql" "v1.0_auth.sql" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/collector/bin/" (23452 49376 426683 193000) "start_collector.sh" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/collector/" (23452 49376 425864 641000) "conf/" "scripts/" "cert/" "README.md" "Dockerfile" "bin/" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/collector/scripts/" (23452 49376 427912 425000) "build_collector.sh" "process_mgr.py" "aws_configure.sh" "../" "./")
+
+ ("/Users/sasank/git/dev/infrastructure/buildScripts/dev/" (23450 61644 347213 971000) "upgrade.py" "push_service.sh" "archive/" "requirements.txt" "deploy.py" "setup.sh" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/collector/conf/supervisor-conf/" (23450 60415 293749 599000) "process-mgr.conf" "redis.conf" "collector-svc-task.conf" "control-server.conf" "java-collector.conf" "../" "./")
+
+ ("/Users/sasank/git/eng/collector/src/main/java/io/spanugo/contcomp/gateway/redis/" (23450 959 616297 415000) "MessagePublisher.java" "RedisMessageSubscriber.java" "RedisMessagePublisher.java" "../" "./")
+
+ ("/Users/sasank/git/dev/infrastructure/buildScripts/config/" (23450 61644 339510 821000) "instance_env_spanugodev.json" "service-template-elasticsearch.yml" "instance_details.json" "instance_env_spanugodemo.json" "service-template-analytics.yml" "instance_env_defaults.json" "service-template-dataconnector.yml" "service-template-kibana.yml" "instance_env_localhost.json" "service-template-configdb.yml" "instance_env_spanugosvc.json" "instance_env_spanugostaging.json" "service-template-auth.yml" "service-template-devops-override.yml" "vault.conf" "service-template-message.yml" "service-template-portal.yml" "service-template-collector.yml" "service-template-vault.yml" "service-template-devops.yml" "service-template-api.yml" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/collector/conf/" (23450 36102 677898 989000) "rc.local" "supervisord.conf" "redis.conf" "supervisor-conf/" "../" "./")
+
+ ("/Users/sasank/git/dev/" (23440 15470 419242 387000) "analytics/" "vault/" "versions.ini" "infrastructure/" ".git" "build/" "automation/" ".venv/" ".gitignore" "common/" "schema/" "controls/" "README.md" "controller/" "__init__.py" "collector/" "auth/" "test/" "portal/" "docker/" "devops/" "newcontrols/" "../" "./")
+
+ ("/Users/sasank/git/dev/collector/" (23450 36102 606048 450000) "src/" ".idea/" "service/" "assembly.xml" ".project" ".settings/" ".gitignore" "data.properties" ".classpath" "pom.xml" "../" "./")
+
+ ("/Users/sasank/git/dev/collector/service/" (23450 36145 220887 939000) "discovery_temp.json" "fact_register.json" "tmp_discovery.json" "credentials.json" "settings.py" "task_manager.py" "credentials_manager.py" "runtime_store_lib.py" "results_cache_lib.py" "validations_manager.py" "base_manager.py" "results_manager.py" "test.py" "__init__.py" "task_lib.py" "collector_svc.py" "credentials_cache_lib.py" "discovery_manager.py" "discovery_detail.json" "rest_api_lib.py" "facts_manager.py" "../" "./")
+
+ ("/Users/sasank/git/eng/infrastructure/ui/" (23349 31863 396026 272000) "spanugo-logo.png" "index.html" "favicon.ico" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/dataconnector/conf/" (23428 31198 646211 337000) "process-mgr.conf" "supervisord.conf" "log_mysql2es.conf" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/dataconnector/" (23428 31198 645637 912000) "conf/" "scripts/" "Dockerfile" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/configdb/conf/" (23323 1484 976144 911000) "my.cnf" "../" "./")
+
+ ("/Users/sasank/git/eng/controls/service/" (23442 52893 534561 743000) "task_manager.pyc" "base_manager.pyc" "task_manager.py" "credentials_manager.py" "validations_manager.py" "base_manager.py" "results_manager.py" "collector_svc.py" "facts_manager.py" "../" "./")
+
+ ("/Users/sasank/git/eng/.venv/" (23440 23569 339048 312000) "pip-selfcheck.json" "lib/" "include/" "bin/" ".Python" "../" "./")
+
+ ("/Users/sasank/git/" (23341 30721 648335 835000) "src/" "control/" "data/" "dev/" "scripts/" "schema_base_table.sql" "assurance/" ".DS_Store" "dummy_ca/" "eng/" "../" "./")
+
+ ("/Users/sasank/git/eng/docker/" (23384 54212 264773 973000) "analytics/" "vault/" "elasticsearch/" "dataconnector/" "api/" "configdb/" "README.md" "message/" "collector/" "kibana/" "portal/" "devops/" "../" "./")
+
+ ("/Users/sasank/git/eng/infrastructure/buildScripts/" (23427 32083 390388 289000) "dev/" "bundle/" "config/" "../" "./")
+
+ ("/Users/sasank/git/dev/schema/" (23428 31198 670933 305000) "control_input_settings.json" "credentials.json" "org_profile.json" "validations.json" "ssh_credentials.json" "discovery.elastic.mapping" "validations.elastic.mapping" "discovery.json" "aws_credentials.json" "azure_credentials.json" "../" "./")
+
+ ("/Users/sasank/git/eng/docker/dataconnector/" (23418 14085 242474 14000) "conf/" "scripts/" "Dockerfile" "../" "./")
+
+ ("/Users/sasank/git/eng/docker/dataconnector/conf/" (23418 14085 243077 703000) "process-mgr.conf" "supervisord.conf" "log_mysql2es.conf" "../" "./")
+
+ ("/Users/sasank/git/dev/build/install/" (23409 64742 81912 266000) "analytics/" "vault/" "elasticsearch/" "dataconnector/" "api/" "configdb/" "final-compose.yml" "message/" "collector/" "auth/" "kibana/" "portal/" "devops/" "../" "./")
+
+ ("/Users/sasank/.emacs.d/" (23413 60640 641386 416000) "elpa/" "yaml/" "init.el" "auto-save-list/" "ido.last~" "eshell/" "go/" "init.el~" "ido.last" "snippets/" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/devops/" (23395 35836 782438 32000) "Dockerfile" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/dataconnector/scripts/" (23395 35836 781366 290000) "process_mgr.py" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/analytics/" (23395 35836 776095 458000) "conf/" "Dockerfile" "../" "./")
+
+ ("/Users/sasank/git/eng/devops/tests/collector/" (23411 16275 260022 454000) "test_collector_setup.py" "../" "./")
+
+ ("/Users/sasank/git/eng/docker/dataconnector/scripts/" (23412 53184 673133 301000) "process_mgr.py" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/" (23395 35836 784114 165000) "analytics/" "vault/" "elasticsearch/" "dataconnector/" "api/" "configdb/" "README.md" "message/" "collector/" "kibana/" "portal/" "devops/" "../" "./")
+
+ ("/Users/sasank/git/eng/controller/src/main/java/io/spanugo/alpha/" (23384 54212 207329 177000) "header/" "exception/" "service/" "model/" "constant/" "controller/" "scheduler/" "dao/" "entity/" "config/" "util/" "dto/" "../" "./")
+
+ ("/Users/sasank/git/eng/controller/src/main/java/io/spanugo/alpha/controller/" (23390 33929 791863 392000) "UserController.java" "ExceptionOverrideController.java" "ValidatorController.java" "SSHCredentialController.java" "GatewayInternalController.java" "SchemaController.java" "GatewayStatisticsController.java" "PolicyController.java" "AzureTokenController.java" "ValidateRequest.java" "AboutController.java" "SchedulerInternalController.java" "ResourceController.java" "ComplianceController.java" "OrganizationController.java" "TemplateController.java" "DashboardController.java" "LDAPUserController.java" "GatewayController.java" "AuthenticationController.java" "ReportSettingController.java" "AdminController.java" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/analytics/conf/" (23375 43273 451127 684000) "elasticsearch.yml" "supervisord.conf" "kibana.conf" "elastic.conf" "analytics.conf" "../" "./")
+
+ ("/Users/sasank/git/assurance/test/controls/" (23366 19461 341254 869000) "conf/" "test_controls.sh" "validation.json" "runtime/" "run_controls.py" "../" "./")
+
+ ("/Users/sasank/git/dev/controls/" (23375 43273 444278 40000) "templVersion/" "firewall_controls.py" "conf/" "org.json" "compound_controls.py" "iam_control.py" "lib/" "settings.py" "validation.json" "scripts/" "ssh_controls.py" "combinationcontrols.py" "logging_controls.py" "iam_controls.py" "spfactcollector/" "networking_controls.py" "__init__.py" "template/" "sp_factcollector.py" "monitoring_controls.py" "azure_controls/" "config/" "archive/" "loadbalancer_control.py" "run_controls.py" "../" "./")
+
+ ("/Users/sasank/git/dev/controls/lib/" (23375 43273 431363 34000) "result_format.py" "ssh_vms_commands.py" "compound_test.py" "runtime_cache.py" "get_config.py" "operation_datatype.py" "message_lib.py" "common_lib.py.bk" "common_lib.py" "string_lib.py" "network.py" "storage.py" "BaseControl.py" "ssh_lib.py" "loadbalancer/" "aws_logging.py" "__init__.py" "monitoring.py" "control_exec.py" "credentials.py" "onprem-0.0.1.tar.gz" "iam.py" "keymanagement.py" "config.py" "message_server.py" "cloudtrail.py" "../" "./")
+
+ ("/Users/sasank/src/hvac/hvac/v1/" (23266 25805 944 887000) "__init__.py" "../" "./")
+
+ ("/Users/sasank/git/assurance/controls/lib/" (23369 6824 813714 689000) "result_format.py" "ssh_vms_commands.py" "get_config.pyc" "compound_test.py" "network.pyc" "runtime_cache.py" "get_config.py" "operation_datatype.py" "message_lib.py" "string_lib.pyc" "common_lib.py.bk" "common_lib.py" "__init__.pyc" "string_lib.py" "network.py" "common_lib.pyc" "storage.py" "BaseControl.py" "network_lib.pyc" "iam.pyc" "cloudtrail.pyc" "credentials.pyc" "runnow.sh" "session.pyc" "ssh_lib.py" "loadbalancer/" "aws_logging.py" "__init__.py" "monitoring.pyc" "monitoring.py" "control_exec.py" "runtime_cache.pyc" "ssh_connection.pyc" "credentials.py" "onprem-0.0.1.tar.gz" "iam.py" "result_format.pyc" "keymanagement.py" "config.py" "control_exec.pyc" "message_server.py" "cloudtrail.py" "../" "./")
+
+ ("/Users/sasank/git/dev/test/vault/" (23368 58389 605601 542000) "services-compose-template.yml" "test_vault.sh" "vault.conf" "run_tests.py" "../" "./")
+
+ ("/Users/sasank/git/eng/analytics/datapipeline/kafka-producer/src/main/java/com/spanugo/messaging/kafkastreams/producer/" (23363 45048 663869 807000) "Producer.java" "ProducerBootstrap.java" "../" "./")
+
+ ("/Users/sasank/git/dev/vault/manager/" (23368 58397 248836 211000) "policy_api_writeonly" "policy_manager" "conf/" "db_conn.py" "setup_vault.py" "cert_server.py" "local_ca/" "credentials_server.py" "vault_manager.py" "policy_api_readonly" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/message/scripts/" (23374 10812 278090 385000) "process_mgr.py" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/message/conf/" (23374 10812 277857 679000) "supervisord.conf" "kafka_server.properties" "../" "./")
+
+ ("/Users/sasank/git/dev/infrastructure/" (23354 43443 721585 298000) "upgradeScripts/" "db/" "buildScripts/" "docker/" "ui/" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/sql2analytics/" (23369 9235 800366 736000) "conf/" "Dockerfile" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/sql2analytics/conf/" (23369 9357 993386 522000) ".#analytics.conf" "supervisord.conf" "analytics.conf" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/test/" (23354 43443 702596 98000) "Dockerfile" "../" "./")
+
+ ("/Users/sasank/git/dev/infrastructure/buildScripts/" (23354 43443 705611 21000) "dev/" "config/" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/message/" (23350 40931 229035 958000) "conf/" "scripts/" "Dockerfile" "bin/" "../" "./")
+
+ ("/Users/sasank/git/assurance/docker/collector/bin/" (23249 558 780466 615000) "start_collector.sh" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/vault/" (23354 43443 703497 738000) "conf/" "scripts/" "Dockerfile" "bin/" "../" "./")
+
+ ("/Users/sasank/git/dev/controller/src/main/java/io/spanugo/vault/" (23354 43443 654897 228000) "Client.java" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/vault/conf/" (23354 43443 704955 328000) "v.conf" "supervisord.conf" "../" "./")
+
+ ("/Users/sasank/git/dev/docker/vault/bin/" (23354 43443 704217 149000) "start.sh" "server.py" "../" "./")
+
+ ("/Users/sasank/git/eng/vault/manager/" (23339 56454 675529 759000) "policy_api_writeonly" "policy_manager" "conf/" "db_conn.py" "setup_vault.py" "cert_server.py" "local_ca/" "credentials_server.py" "vault_manager.py" "policy_api_readonly" "../" "./")
+
+ ("/Users/sasank/git/src/infrastructure/buildScripts/config/" (23355 60792 496935 672000) "service-template-test.yml" "instance_details.json" "service-template-analytics.yml" "service-template-configdb.yml" "service-template-auth.yml" "vault.conf" "service-template-message.yml" "service-template-portal.yml" "service-template-collector.yml" "service-template-vault.yml" "service-template-devops.yml" "service-template-api.yml" "../" "./")
+
+ ("/Users/sasank/git/src/docker/collector/scripts/" (23355 60792 495658 47000) "build_collector.sh" "process_mgr.py" ".#process_mgr.py" "aws_configure.sh" "control_server.py" "../" "./")
+
+ ("/Users/sasank/git/src/infrastructure/buildScripts/dev/" (23355 60792 497528 804000) "services-compose-template.yml" "collector-build.sh" "UI-build.sh" "postbuild-all.sh" "fix_hosts.py" "UI-postbuild.sh" "controls-postbuild.sh" "push_collector.sh" "build-all.sh" "test.py" "push_vault.sh" "controller-build.sh" "controller-postbuild.sh" "docker-deploy.sh" "update_realms.py" "deploy.py" "collector-postbuild.sh" "session_login.py" "build.py" "../" "./")
+
+ ("/Users/sasank/git/eng/infrastructure/" (23349 31863 395329 216000) "upgradeScripts/" "db/" "buildScripts/" "docker/" "ui/" "../" "./")
+
+ ("/Users/sasank/git/src/docker/collector/" (23341 30722 358571 312000) "conf/" "scripts/" "cert/" "README.md" "Dockerfile" "bin/" "../" "./")
+
+ ("/Users/sasank/git/src/docker/collector/bin/" (23341 30722 355733 836000) "start_collector.sh" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
